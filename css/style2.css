@@ -1,0 +1,133 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #cfc5db;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 104px;
+  top: 75px;
+  width: 359px;
+  height: 49px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 47px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 770px;
+  top: 80px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1592px;
+  position: absolute;
+  left: 80px;
+  top: 262px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-students-learn-different-systems-and-languages-before-starting-their-capstone-course-in-this-course-students-apply-their-knowledge-in-developing-an-is-process {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: relative;
+  width: 1297px;
+}
+.semester-details-spring-2026 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.semester-details-spring-2026-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.semester-details-spring-2026-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.professor-paul-t-shapiro-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.professor-paul-t-shapiro-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
